@@ -1,0 +1,12 @@
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.vbprojAssemblyReference.cache
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.Form1.resources
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.Resources.resources
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\bin\Debug\Catarinaduarte.exe.config
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\bin\Debug\Catarinaduarte.exe
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\bin\Debug\Catarinaduarte.pdb
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\bin\Debug\Catarinaduarte.xml
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.exe
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.xml
+C:\Users\35196\Desktop\CatarinaDuarte\Catarinaduarte\Catarinaduarte\obj\Debug\Catarinaduarte.pdb
